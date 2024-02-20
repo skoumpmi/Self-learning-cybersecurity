@@ -1,0 +1,15 @@
+# User-specific stuff
+.idea/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+models/
