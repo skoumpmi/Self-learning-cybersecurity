@@ -1,0 +1,5 @@
+,Normal,BACnet Fuzzing,Tampering,Flooding
+Normal,506,0,0,0
+BACnet Fuzzing,11,64464,44,0
+Tampering,0,0,353,2
+Flooding,0,0,1,24

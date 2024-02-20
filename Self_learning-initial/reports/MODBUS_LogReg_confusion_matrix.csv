@@ -1,0 +1,5 @@
+,Normal,UID brute force,Enumeration Function,Fuzzing Read Holding Registers
+Normal,2177,1,0,1
+UID brute force,40,81499,0,188
+Enumeration Function,0,0,198,0
+Fuzzing Read Holding Registers,0,659,0,1387
